@@ -1,0 +1,12 @@
+{		"ParticleCount" : 1024,
+        "MaxSteps" : 10,
+        "FirstTestSteps" : 10,
+        "BorderVelocity" : 1,
+        "SystemSizeX" : 10,
+        "SystemSizeY" : 10,
+        "MinNoise" : 0,
+        "MaxNoise" : 180,
+        "StepNoise" : -60,
+        "Slices" : 10,
+        "BorderConditions": "Transitional"
+}
